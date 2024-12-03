@@ -1,29 +1,31 @@
-👋 Hi, I’m Muneer Ahmed!
+👋 Hi, I’m Ghassan Alsayed (Cybersecurity Enthusiast)
+🔐 Cybersecurity Enthusiast | 🛡️ Aspiring Penetration Tester | 💻 Exploring Ethical Hacking
 
-👀 I’m interested in Development, particularly in Java and Spring, as well as Cyber Security.
+🚀 Dedicated to mastering the art of offensive security, building recon tools, and tackling CTFs. Constantly leveling up my skills on TryHackMe and HackTheBox.
 
-🌱 Learnt Java and Spring development, now delving into Cyber Security (Pentester).
+🎓 Certified in EJPT, NSE 3, and multiple cybersecurity disciplines.
 
- 🐧 Passionate about Linux OS
-
-💞️ I’m looking to collaborate on Security projects and Java/Spring-based solutions.
-
-😎 Fun fact: When things don't go right, turn left! 
+⚡ Constantly learning, hacking, and pushing boundaries.
 
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muneer-jamali/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ghaalsayed/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:munirahmedjamali@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 </p>
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2354416" style='border:none;'></iframe>
-  <a href="https://app.hackthebox.com/profile/308067"><img src="https://www.hackthebox.com/badge/url/your-badge" alt="Hack The Box"></a>
-  <a href="https://academy.hackthebox.com/achievement/badge/e38e8f2d-5f94-11ef-864f-bea50ffe6cb4"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81816465" alt="EJPT Badge"></a>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2354416" style="border:none;"></iframe>
+  <a href="https://app.hackthebox.com/profile/308067">
+    <img src="https://www.hackthebox.com/badge/url/your-badge" alt="Hack The Box" />
+  </a>
+  <a href="https://academy.hackthebox.com/achievement/badge/e38e8f2d-5f94-11ef-864f-bea50ffe6cb4">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81816465" alt="EJPT Badge" />
+  </a>
 </p>
+
 <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
 <p align="center">
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
