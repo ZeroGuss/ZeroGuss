@@ -13,6 +13,7 @@ My goal: to continuously grow, contribute to the cybersecurity community, and be
 - ![OSCP](https://img.shields.io/badge/OSCP-Loading-blue?style=flat)
 - ![CRTO](https://img.shields.io/badge/CRTO-Loading-blue?style=flat)
 - ![BSCP](https://img.shields.io/badge/BSCP-Loading-blue?style=flat)
+- ![eJPT](https://img.shields.io/badge/eJPT-active-red?style=flat)
 
 
 ---
