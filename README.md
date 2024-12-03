@@ -6,14 +6,24 @@
 🎓 Certified in EJPT, NSE 3, and multiple cybersecurity disciplines.
 
 ⚡ Constantly learning, hacking, and pushing boundaries.
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2354416" style='border:none;'></iframe>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ZeroGuss.png" alt="Your Image Badge" />
 
 
 📫 How to reach me:
 <p align="center"> <a href="https://www.linkedin.com/in/ghaalsayed/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:your-email@example.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://t.me/your-telegram-handle"> <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white"> </a> </p>
 🏅 My Achievements:
-<p align="center"> <a href="https://tryhackme.com/p/ahmed.munir"> <img src="https://tryhackme-badges.s3.amazonaws.com/ahmed.munir.png" alt="TryHackMe"> </a> <a href="https://www.hackthebox.com/home/users/profile/308067"> <img src="https://www.hackthebox.com/badge/url/your-badge" alt="Hack The Box"> </a> <a href="https://academy.hackthebox.com/achievement/badge/e38e8f2d-5f94-11ef-864f-bea50ffe6cb4"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81816465" alt="EJPT Badge"> </a> </p>
+<p align="center">
+  <a href="https://tryhackme.com/p/ZeroGuss">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ZeroGuss.png" alt="TryHackMe Badge" />
+  </a>
+  <a href="https://www.hackthebox.com/home/users/profile/308067">
+    <img src="https://www.hackthebox.com/badge/url/308067" alt="Hack The Box Badge" />
+  </a>
+  <a href="https://academy.hackthebox.com/achievement/badge/e38e8f2d-5f94-11ef-864f-bea50ffe6cb4">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81816465" alt="EJPT Badge" />
+  </a>
+</p>
+
+</p>
 🎓 Certifications:
 OPSWAT Introduction to Critical Infrastructure Protection (ICIP)
 Ethical Hacker (Cisco)
