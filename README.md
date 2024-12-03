@@ -7,6 +7,7 @@
 
 ⚡ Constantly learning, hacking, and pushing boundaries.
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2354416" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ZeroGuss.png" alt="Your Image Badge" />
 
 
 📫 How to reach me:
