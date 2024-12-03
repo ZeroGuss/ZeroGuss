@@ -15,13 +15,14 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muneer-jamali/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:munirahmedjamali@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/iam_ahmedmunir"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Bookworm98"></a>
 </p>
 
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/ahmed.munir"><img src="https://tryhackme-badges.s3.amazonaws.com/ahmed.munir.png" alt="TryHackMe">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2354416" style='border:none;'></iframe>
+  <a href="https://app.hackthebox.com/profile/308067"><img src="https://www.hackthebox.com/badge/url/your-badge" alt="Hack The Box"></a>
+  <a href="https://academy.hackthebox.com/achievement/badge/e38e8f2d-5f94-11ef-864f-bea50ffe6cb4"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/81816465" alt="EJPT Badge"></a>
 </p>
 <h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
 <p align="center">
