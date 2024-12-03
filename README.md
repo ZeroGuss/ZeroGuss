@@ -6,6 +6,8 @@
 🎓 Certified in EJPT, NSE 3, and multiple cybersecurity disciplines.
 
 ⚡ Constantly learning, hacking, and pushing boundaries.
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2354416" style='border:none;'></iframe>
+
 
 📫 How to reach me:
 <p align="center"> <a href="https://www.linkedin.com/in/ghaalsayed/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:your-email@example.com"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://t.me/your-telegram-handle"> <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white"> </a> </p>
