@@ -35,15 +35,6 @@ These are the tools I use to perform thorough Red Team engagements and discover 
 
 ---
 
-## 🔴 Current Projects:
-### [Red Teaming Toolkit](https://github.com/your-repository)
-This repository contains tools and scripts that I’ve developed for **offensive security engagements**. It includes automated **phishing scripts**, **web vulnerability exploits**, and **post-exploitation techniques**.
-
-### [CTF Write-ups](https://github.com/your-ctf-writeups)
-Explore my solutions and write-ups from **Capture the Flag (CTF)** challenges, including real-world Red Team techniques, attack simulations, and exploit development.
-
----
-
 ## 🔴 Key Red Team Techniques:
 1. **Reconnaissance** – Gathering intelligence about the target (OSINT).
 2. **Exploitation** – Finding and exploiting vulnerabilities (e.g., SQL injection, XSS).
@@ -71,16 +62,7 @@ Explore my solutions and write-ups from **Capture the Flag (CTF)** challenges, i
 ---
 
 ## 🔴 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 🔴 My **Red Teaming** Blogs & Articles:
-I write about Red Teaming strategies, tips, and tools. Check out some of my most popular posts:
-
-- [Social Engineering in Red Teaming](https://your-article-link)
-- [Privilege Escalation Techniques](https://your-article-link)
-- [Red Teaming Tools Overview](https://your-article-link)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeroguss&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
@@ -89,19 +71,19 @@ You can connect with me on the following platforms:
 
 - **LinkedIn**: [LinkedIn Profile](https://sa.linkedin.com/in/ghaalsayed)
 - **Twitter**: [@X](https://twitter.com/ghaalsayed)
-- **HackTheBox Profile**: [HTB Profile](https://app.hackthebox.com/profile/308067)
-- **TryHackMe Profile**: <img src="https://tryhackme-badges.s3.amazonaws.com/ZeroGuss.png" alt="Your Image Badge" />
-
 ---
 
 ## 🔴 Social Proof:
 
 **CTF Rankings**:  
-- **HackTheBox**: 
-- ![HTB](https://img.shields.io/badge/ProHacker-Loading-red?style=flat)
+- **HackTheBox**:
+- TOP 10%
+- - ![HTB](https://img.shields.io/badge/Hacker-active-red?style=flat)
+- - **HackTheBox Profile**: [HTB](https://app.hackthebox.com/profile/308067)
 - **TryHackMe**:
-- ![THM](https://img.shields.io/badge/[0x9|Omni]-Loading-red?style=flat)
-
+- TOP 7%
+- - ![THM](https://img.shields.io/badge/[0x8|Hacker]-active-red?style=flat)
+- - **TryHackMe Profile**: [THM](https://tryhackme.com/r/p/ZeroGuss)
 ---
 
 ## 🔴 Facts about me:
