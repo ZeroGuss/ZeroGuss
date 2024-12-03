@@ -1,4 +1,4 @@
-# (https://imgur.com/a/1PLyIS4) 
+![Red Teaming Banner](https://i.imgur.com/1PLyIS4.png)
 *Custom Red and Black-themed Banner for Red Teaming Skills*
 
 ---
