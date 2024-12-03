@@ -87,32 +87,24 @@ I write about Red Teaming strategies, tips, and tools. Check out some of my most
 ## 🔴 Contact Me:
 You can connect with me on the following platforms:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Twitter**: [@YourTwitter](https://twitter.com/your-profile)
-- **HackTheBox Profile**: [Your HTB Profile](https://www.hackthebox.eu/profile/your-profile)
-- **TryHackMe Profile**: [Your TryHackMe Profile](https://tryhackme.com/p/yourprofile)
-
----
-
-## 🔴 Featured Repositories:
-
-### [Red Teaming Toolkit - Custom Burp Suite Extensions](https://github.com/your-burp-extensions)
-A collection of Burp Suite extensions that I developed to automate security testing and improve vulnerability exploitation.
-
-### [Custom Exploit Development](https://github.com/your-custom-exploits)
-Exploit development for various platforms, including web applications and network services. Focused on **zero-day vulnerabilities** and **vulnerability chaining**.
+- **LinkedIn**: [LinkedIn Profile](https://sa.linkedin.com/in/ghaalsayed)
+- **Twitter**: [@X](https://twitter.com/ghaalsayed)
+- **HackTheBox Profile**: [HTB Profile](https://app.hackthebox.com/profile/308067)
+- **TryHackMe Profile**: <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2354416" style='border:none;'></iframe>
 
 ---
 
 ## 🔴 Social Proof:
 
 **CTF Rankings**:  
-- **HackTheBox**: Top 10%  
-- **TryHackMe**: Pro level
+- **HackTheBox**: 
+- ![HTB](https://img.shields.io/badge/ProHacker-Loading-RED?style=flat)
+- **TryHackMe**:
+- ![THM](https://img.shields.io/badge/[0x9|Omni]-Loading-blue?style=flat)
 
 ---
 
-## 🔴 Fun Facts:
+## 🔴 Facts about me:
 - I’m constantly improving my skills in **web app security** and **network exploitation**.
 - In my free time, I enjoy contributing to **open-source cybersecurity projects** and creating **Red Teaming resources** for the community.
 
