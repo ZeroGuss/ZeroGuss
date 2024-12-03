@@ -90,7 +90,7 @@ You can connect with me on the following platforms:
 - **LinkedIn**: [LinkedIn Profile](https://sa.linkedin.com/in/ghaalsayed)
 - **Twitter**: [@X](https://twitter.com/ghaalsayed)
 - **HackTheBox Profile**: [HTB Profile](https://app.hackthebox.com/profile/308067)
-- **TryHackMe Profile**: <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2354416" style='border:none;'></iframe>
+- **TryHackMe Profile**: <img src="https://tryhackme-badges.s3.amazonaws.com/ZeroGuss.png" alt="Your Image Badge" />
 
 ---
 
@@ -98,9 +98,9 @@ You can connect with me on the following platforms:
 
 **CTF Rankings**:  
 - **HackTheBox**: 
-- ![HTB](https://img.shields.io/badge/ProHacker-Loading-RED?style=flat)
+- ![HTB](https://img.shields.io/badge/ProHacker-Loading-red?style=flat)
 - **TryHackMe**:
-- ![THM](https://img.shields.io/badge/[0x9|Omni]-Loading-blue?style=flat)
+- ![THM](https://img.shields.io/badge/[0x9|Omni]-Loading-red?style=flat)
 
 ---
 
