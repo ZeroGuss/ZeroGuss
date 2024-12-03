@@ -1,16 +1,18 @@
 # ![Red Teaming Banner](https://i.imgur.com/8zdU42b.jpeg)
 
 ---
-
 ## 🔴 About Me:
-Welcome to my GitHub profile! I'm a **Red Teaming expert** focused on **penetration testing**, **vulnerability assessments**, and simulating real-world cyberattacks to uncover vulnerabilities before adversaries can exploit them.
+Welcome to my GitHub profile! I’m currently a **Red Teaming enthusiast** focused on **penetration testing**, **vulnerability assessments**, and simulating real-world cyberattacks to uncover vulnerabilities before adversaries can exploit them.
 
-I specialize in **offensive security**, **web application security**, **network exploitation**, and **social engineering**. My goal is to continuously improve my skills and contribute to the cybersecurity community with tools, techniques, and open-source projects.
+I specialize in **offensive security**, **web application security**, **network exploitation**, and **social engineering**. While still honing my skills through learning and practical application, I’m actively working toward achieving **industry-recognized certifications** and gaining hands-on experience in the field.
 
-### Certifications:
-- ![OSCP](https://img.shields.io/badge/OSCP-Active-red?style=flat)
-- ![CRTO](https://img.shields.io/badge/CRTO-Active-red?style=flat)
-- ![BSCP](https://img.shields.io/badge/BSCP-Active-red?style=flat)
+My goal is to continuously improve my knowledge and contribute to the cybersecurity community with tools, techniques, and open-source projects, with the ultimate aim of becoming a seasoned expert in **Red Teaming** and **offensive security**.
+
+### Certifications (Planned for 2025):
+- ![OSCP](https://img.shields.io/badge/OSCP-Loading-blue?style=flat)
+- ![CRTO](https://img.shields.io/badge/CRTO-Loading-blue?style=flat)
+- ![BSCP](https://img.shields.io/badge/BSCP-Loading-blue?style=flat)
+
 
 ---
 
