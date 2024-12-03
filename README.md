@@ -2,11 +2,12 @@
 
 ---
 ## 🔴 About Me:
-Welcome to my GitHub profile! I’m currently a **Red Teaming enthusiast** focused on **penetration testing**, **vulnerability assessments**, and simulating real-world cyberattacks to uncover vulnerabilities before adversaries can exploit them.
+Welcome to my GitHub! I'm a **Red Teaming** enthusiast focused on **penetration testing**, **vulnerability assessments**, and simulating real-world cyberattacks to stay ahead of threats.
 
-I specialize in **offensive security**, **web application security**, **network exploitation**, and **social engineering**. While still honing my skills through learning and practical application, I’m actively working toward achieving **industry-recognized certifications** and gaining hands-on experience in the field.
+Specializing in **offensive security**, **web app security**, **network exploitation**, and **social engineering**, I'm honing my skills through hands-on experience and working toward industry certifications.
 
-My goal is to continuously improve my knowledge and contribute to the cybersecurity community with tools, techniques, and open-source projects, with the ultimate aim of becoming a seasoned expert in **Red Teaming** and **offensive security**.
+My goal: to continuously grow, contribute to the cybersecurity community, and become a **Red Teaming** expert.
+
 
 ### Certifications (Planned for 2025):
 - ![OSCP](https://img.shields.io/badge/OSCP-Loading-blue?style=flat)
