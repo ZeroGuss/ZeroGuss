@@ -1,4 +1,4 @@
-# ![Red Teaming Banner](https://link-to-your-banner.jpg)  
+# ![Red Teaming Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/7e8c68187789679.65902433913a5.png)  
 *Custom Red and Black-themed Banner for Red Teaming Skills*
 
 ---
